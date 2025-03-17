@@ -1,3 +1,2 @@
-inch = int(input("inch 단위를 입력하세요"))
-cm = inch * 2.54
-print(inch,'inch =',cm,'cm')
+string= float(input("inch:"))
+print("cm:", string*2.54)
